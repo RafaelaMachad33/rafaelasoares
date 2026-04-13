@@ -2,12 +2,10 @@
 
 **Data Analyst Junior** · Dublin, Ireland · Open to remote roles
 
-I'm a hospitality professional transitioning into data analytics.
-After years working in fast-paced, customer-facing environments,
-I developed a strong eye for patterns in guest behaviour, operational
-performance, and service quality — and now I'm channelling that into
-data. I'm building hands-on skills in Python, SQL, and BI tools to
-move into a remote data role in Europe.
+I'm a data analyst with a background in hospitality, bringing
+a strong understanding of customer behaviour, operational performance
+and service quality. Currently building hands-on skills in Python,
+SQL and BI tools, with a focus on remote roles across Europe.
 
 ---
 
