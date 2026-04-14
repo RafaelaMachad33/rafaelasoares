@@ -24,11 +24,10 @@ SQL and BI tools, with a focus on remote roles across Europe.
 
 ## 📂 Projects
 
-### E-commerce Sales Analysis — EDA
-Exploratory analysis of an online retail dataset with 500k+
-transactions. Investigated revenue trends, top-selling products,
-peak seasons and customer purchasing behaviour.
-> **Stack:** Excel · SQL
+**E-commerce Sales Analysis — EDA**  
+Exploratory analysis of the Online Retail II dataset (500k+ transactions). Investigated revenue trends, top-selling products, seasonality and customer purchasing behaviour.  
+**Stack:** Excel · SQL (SQLite)  
+**Repo:** https://github.com/RafaelaMachad33/ecommerce-sales-analysis-eda
 
 ### Netflix Content Dashboard
 Analysis of Netflix's catalogue of 8,000+ titles. Explored content
